@@ -24,7 +24,7 @@ Typing SVG
 
 total stars followers
 
-<img src="https://komarev.com/ghpvc/?username=zim-bot&label=Profile%20views&color=blueviolet&label=Profile+Views&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=MABANTITY1&label=Profile%20views&color=blueviolet&label=Profile+Views&style=plastic">
 
 
 const takx = () => {
