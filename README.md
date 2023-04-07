@@ -2,7 +2,9 @@
 
 <div align="center
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
 
+<div align="cente
 
 <!--
 <h2 align="center">
@@ -62,9 +64,7 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br/>
-
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
@@ -97,32 +97,17 @@
   <br/>
 </a>
 
-
 ![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-#######>>>>>>>>>>>>>
+
+
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+ 
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/IxTYudb4GvSAuvzRKE5ULH)
+ [![WhatsApp chat](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey)](https://wa.me/27719664081)
+ [![Instagram](https://img.shields.io/badge/instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=mellow)](https://instagram.com/munyorobot?igshid=YmMyMTA2M2Y=)
+ [![Google](https://img.shields.io/badge/google-25D366?style=for-the-badge&logo=google&logoColor=blue)](https://kanjumatakundachar.wixsite.com/takundacharleskanj-1)
+ [![Atomic.Bio](https://img.shields.io/badge/atomic.bio-25D366?style=for-the-badge&logo=atom.bio&logoColor=purple)](https://www.atom.bio/munyoro-bot_/)
 
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
 
-## JOIN MY WHATSAPP GROUP
-
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/IxTYudb4GvSAuvzRKE5ULH)
-
-
-
-## MY PERSONAL CHAT 
-
-# [![WhatsApp chat](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey)](https://wa.me/27719664081)
-
-## INSTAGRAM 
->>>>>>>
-# [![Instagram](https://img.shields.io/badge/instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=mellow)](https://instagram.com/munyorobot?igshid=YmMyMTA2M2Y=)
-
-## MY WEBSITE 
-
-# [![Google](https://img.shields.io/badge/google-25D366?style=for-the-badge&logo=google&logoColor=blue)](https://kanjumatakundachar.wixsite.com/takundacharleskanj-1)
-
-
-
-## ATOMIC.BIO 
-
-# [![Atomic.Bio](https://img.shields.io/badge/atomic.bio-25D366?style=for-the-badge&logo=atom.bio&logoColor=purple)](https://www.atom.bio/munyoro-bot_/)
+<div align="center
