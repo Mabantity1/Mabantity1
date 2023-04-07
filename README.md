@@ -1,11 +1,9 @@
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+LEARN+AT+JONAS+HIGH;NOW+I+STAY+IN+WELLINGTON;WESTERN+CAPE+SOUTH+AFRICA;❤️❤️❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Red-ExtraBold&color=FF00FF&lines=T͜H͜A͜N͜K͜S͜+F͜O͜R͜+V͜I͜S͜I͜T͜I͜N͜G͜+M͜Y͜+P͜A͜G͜E͜;I͜+B͜A͜G͜I͜N͜G͜+Y͜O͜U͜+T͜O͜+P͜U͜T͜;A͜+S͜T͜A͜R͜+D͜O͜N͜'͜T͜+F͜O͜R͜G͜E͜T͜+T͜O͜;F͜O͜L͜L͜O͜W͜+M͜E͜)](https://git.io/typing-svg)
 
 <div align="center
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
-
-<div align="cente
-
 <!--
 <h2 align="center">
  Welcom to MUNYORO BOT!
