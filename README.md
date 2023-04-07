@@ -1,3 +1,9 @@
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+LEARN+AT+JONAS+HIGH;NOW+I+STAY+IN+WELLINGTON;WESTERN+CAPE+SOUTH+AFRICA+❤️❤️❤️)](https://git.io/typing-svg)
+
+<div align="center
+
+
+
 <!--
 <h2 align="center">
  Welcom to MUNYORO BOT!
@@ -16,51 +22,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=MABANTITY1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">TAKUNDA CHARLESKANJUMA</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-   [![Google](https://img.shields.io/badge/google-25D366?style=for-the-badge&logo=google&logoColor=blue)](https://kanjumatakundachar.wixsite.com/takundacharleskanj-1)]
-href=" Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
  # About me
  
 <p>
@@ -165,6 +126,3 @@ href=" Google Me 」</a>
 ## ATOMIC.BIO 
 
 # [![Atomic.Bio](https://img.shields.io/badge/atomic.bio-25D366?style=for-the-badge&logo=atom.bio&logoColor=purple)](https://www.atom.bio/munyoro-bot_/)
-
-<img src="/storage/emulated/0/Pictures/facebook?1678555318246.jpg" alt="backwoods-logo-font" border="0"></a>    
-
