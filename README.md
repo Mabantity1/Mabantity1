@@ -1,4 +1,4 @@
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+LEARN+AT+JONAS+HIGH;NOW+I+STAY+IN+WELLINGTON;WESTERN+CAPE+SOUTH+AFRICA+❤️❤️❤️)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+LEARN+AT+JONAS+HIGH;NOW+I+STAY+IN+WELLINGTON;WESTERN+CAPE+SOUTH+AFRICA;❤️❤️❤️)](https://git.io/typing-svg)
 
 <div align="center
 
