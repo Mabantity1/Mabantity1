@@ -36,11 +36,39 @@
  💬 &emsp; Ask me about anythin # [![Instagram](https://img.shields.io/badge/instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=mellow)](https://instagram.com/munyorobot?igshid=YmMyMTA2M2Y=)
 
 
-</p>
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=MABANTITY1&repo=MABANTITY1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MABANTITY1/MABANTITY1)
 
-<br/>
-<br/>
-<br/>
+<p align="left">
+  <a href="https://github.com/MABANTITY1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MABANTITY1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MABANTITY1&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MABANTITY1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MABANTITY1&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    </a>
+</p>
+<a> 
+    <a href="https://github.com/MABANTITY1"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/MABANTITY1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+ 
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/IxTYudb4GvSAuvzRKE5ULH)
+ [![WhatsApp chat](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey)](https://wa.me/27719664081)
+ [![Instagram](https://img.shields.io/badge/instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=mellow)](https://instagram.com/munyorobot?igshid=YmMyMTA2M2Y=)
+ [![Google](https://img.shields.io/badge/google-25D366?style=for-the-badge&logo=google&logoColor=blue)](https://kanjumatakundachar.wixsite.com/takundacharleskanj-1)
+ [![Atomic.Bio](https://img.shields.io/badge/atomic.bio-25D366?style=for-the-badge&logo=atom.bio&logoColor=purple)](https://www.atom.bio/munyoro-bot_/)
+
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
+
+<div align="center
 
 ## OTHER
 
@@ -66,45 +94,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=MABANTITY1&repo=MABANTITY1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MABANTITY1/MABANTITY1)
-
-<p align="left">
-  <a href="https://github.com/MABANTITY1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/MABANTITY1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MABANTITY1&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MABANTITY1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MABANTITY1&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/MABANTITY1"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MABANTITY1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
- 
-[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/IxTYudb4GvSAuvzRKE5ULH)
- [![WhatsApp chat](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey)](https://wa.me/27719664081)
- [![Instagram](https://img.shields.io/badge/instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=mellow)](https://instagram.com/munyorobot?igshid=YmMyMTA2M2Y=)
- [![Google](https://img.shields.io/badge/google-25D366?style=for-the-badge&logo=google&logoColor=blue)](https://kanjumatakundachar.wixsite.com/takundacharleskanj-1)
- [![Atomic.Bio](https://img.shields.io/badge/atomic.bio-25D366?style=for-the-badge&logo=atom.bio&logoColor=purple)](https://www.atom.bio/munyoro-bot_/)
-
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=I+AM+TAKUNDA+CHARLES+KANJUMA+MABANTITY1+MUNYORO.;FROM+MUNYORO+VILLAGE+SEKE+ZIMBABWE.;I+WISH+YOU+ENJOY+YOU;EASTER+IN+THE+OF+JESUS;AND+RECEIVE+SOME+BLESSINGS+AMEN)](https://git.io/typing-svg)
-
-<div align="center
