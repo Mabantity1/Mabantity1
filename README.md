@@ -3,7 +3,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Red-ExtraBold&color=FF00FF&lines=T͜H͜A͜N͜K͜S͜+F͜O͜R͜+V͜I͜S͜I͜T͜I͜N͜G͜+M͜Y͜+P͜A͜G͜E͜;I͜+B͜A͜G͜I͜N͜G͜+Y͜O͜U͜+T͜O͜+P͜U͜T͜;A͜+S͜T͜A͜R͜+D͜O͜N͜'͜T͜+F͜O͜R͜G͜E͜T͜+T͜O͜;F͜O͜L͜L͜O͜W͜+M͜E͜)](https://git.io/typing-svg)
 
-<div align="center
+<div align="center">
+
+[![Demo Site](https://user-images.githubusercontent.com/20955511/183703055-42ec8754-d84c-414f-8132-a02974224aa1.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
 <!--
 <h2 align="center">
  Welcom to MUNYORO BOT!
